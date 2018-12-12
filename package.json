@@ -1,0 +1,22 @@
+{
+  "name": "@western-investment/vue-laravel-errors",
+  "version": "0.1.0",
+  "description": "Super simple plugin to simplify setting validator errors from Laravel backend",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/western-investment/vue-laravel-errors"
+  },
+  "main": "src/index.js",
+  "keywords": [
+    "vuejs",
+    "vue",
+    "laravel",
+    "validator",
+    "errors"
+  ],
+  "author": "Tadas Maslauskas",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
